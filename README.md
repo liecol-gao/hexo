@@ -1,7 +1,8 @@
 # Landscape plus2
 ------
 ##致敬Landscape plus诸位的努力:##
-[DEMO ](http://bin.bloggao.cn)
+**[DEMO ](http://bin.bloggao.cn)**
+
 接下来是个人对该主题的一些改动：
 + 修改：部分样式
 + 修改head：增加百度推送，[其他推送参考](http://bin.bloggao.cn/2017/01/10/hexo_sitemap/)
